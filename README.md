@@ -51,16 +51,12 @@ tic-tac-toe-ai/
 
 ▶ How to Play
 
-1. Clone the repository
 
-git clone https://github.com/your-username/tic-tac-toe-ai.git
-cd tic-tac-toe-ai
-
-2. Run the game
+1. Run the game
 
 python3 tictactoe.py
 
-3. Gameplay Instructions
+2. Gameplay Instructions
 
 You'll be prompted to enter row and column numbers (from 0 to 2) to place your move.
 
@@ -87,22 +83,6 @@ Enter col (0-2): 1
 Python 3.x
 
 No external libraries required
-
-
-
----
-
-🙌 Contributing
-
-Feel free to fork the repo, improve the game (like adding GUI or difficulty levels), and open a pull request!
-
-
----
-
-📄 License
-
-This project is open-source and available under the MIT License.
-
 
 ---
 
