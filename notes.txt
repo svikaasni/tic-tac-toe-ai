@@ -1,0 +1,2 @@
+This chatbot is for educational purposes.
+You can enhance it with NLP libraries like NLTK or spaCy.
